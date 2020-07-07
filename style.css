@@ -1,0 +1,232 @@
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  /* Facebook */
+  .fa-facebook {
+    background: #4675da;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #4675da;
+    color: white;
+  }
+  .fa-youtube {
+    background: #4675da;
+    color: white;
+  }
+  .fa-instagram {
+    background: #4675da;
+    color: white;
+  }
+  .fa-whatsapp {
+    background: #4675da;
+    color: white;
+  }
+
+  .header{
+      position: relative;
+      left: 10px;
+      background-color: #4675da;
+
+}
+.p{
+    color: rgb(228, 220, 220);
+    display: inline;
+    position: relative;
+    left: 60px;
+}
+.button1{
+    position: relative;
+    left: 130px;
+    display: inline;
+}
+.line{
+    background-color: #4675da;
+    color: rgb(228, 220, 220);
+    padding: 10px;
+}
+
+ /* 2nd portion */
+
+.second{
+ background-color: rgb(250, 243, 243);
+ position: fixed;
+}
+.saylani{
+  display: inline-block;
+
+}
+.button2{
+position: relative;
+left: 550px;
+bottom: 30px;
+display: inline-block;
+}
+
+/* INTODUCTION */
+
+.introo{
+  background-color: rgb(250, 243, 243);
+  padding: 10px;
+text-align: center;
+}
+#one{
+    color: rgb(11, 158, 11);
+    text-align: center;
+    display: inline;
+}
+#two{
+    color: #4675da;
+    display: inline;  
+}
+.text{
+color:#7D7D7D;
+text-align: center;
+border: rgb(235, 231, 231);
+width: 1100px;
+height: auto;
+position: relative;
+left: 80px;
+}
+
+/* TABLE */
+.middle{
+background-color:#1d56d3 ;
+color: white;
+text-align: center;
+padding-left: 90px;
+}
+.table{
+padding: 20px;
+  background-color:#1d56d3 
+}
+.mid{
+  display: inline;
+}
+  .mon{
+    color: rgb(19, 248, 19);
+    display: inline;
+    font-size: large;
+}
+.what{
+  background-color:  rgb(250, 243, 243);
+  padding: 40px;
+}
+
+#logotwo{
+  font-weight: bold;
+  color: rgb(50, 50, 231);
+background-color: white;
+font-size: 22px;   
+border: 0.5px thin black;
+width: 50px;
+padding: 20px;
+}
+.tbletwo{
+  border-spacing: 5x 10px;
+  margin: 10px auto;
+border: 1px solid green;
+width: 220px;
+}
+#tbl{
+  color: rgb(50, 50, 231);
+  background-color: rgb(224, 220, 220);
+  padding: 20px;
+  padding-right: 90px;
+  font-weight: bold;
+}
+.miss{
+  color: rgb(50, 50, 231) ;
+  font-size: x-large;
+  padding-left: 30px;
+  text-decoration: underline lightgray;
+  font-weight: bold;
+  flex: 1;
+} 
+.tblethree{
+position: relative;
+left: 50px;
+display: inline;
+border-spacing: 20px 20px;
+}
+.div1{
+  border: 1px;
+  width: 300px;
+  position: relative;
+  left: 900px;
+  bottom: 220px;
+}
+.div2{
+  position: relative;
+  bottom: 199px;
+}
+.bottom{
+   
+  background-color: rgb(50, 50, 231);
+  color: #d3d3d3;
+  text-align: center;
+  width: 100%;
+  padding: 10px;
+  position: absolute;
+  bottom: 0px;
+  
+  }
+  .footer{
+    background-color: #303036;
+    color: #d3d3d3;
+    height: 350px;
+    position: relative;
+}
+.footer-content{
+position: relative;
+left: 30px;
+top: 20px;
+
+}
+.link{
+  text-decoration: underline green;
+  display: flex;
+  position: relative;
+  left: 550px ;
+  bottom: 190px
+  
+}
+.connect{
+ font-size: 20px;
+  display: flex;
+  position: relative;
+  left: 750px ;
+  bottom: 246px
+}
+.last{
+  border: 1px thin #89da46;
+  border-radius: 3px;
+  display: flex;
+  position: relative;
+  left: 750px ;
+  bottom: 244px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#d3d3d3;
